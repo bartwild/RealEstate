@@ -1,0 +1,7 @@
+build/ -diff
+build/* -diff
+dist/ -diff
+dist/* -diff
+nbproject/ -diff
+nbproject/* -diff
+*.form  -diff
