@@ -11,7 +11,7 @@ Wymaganie aktualne do odpalenia aplikacji - zainstalowana java i ewentualnie IDE
 # 💻💻💻 Dodatkowa możliwość odpalenia onelinerem:
 Z uwagi na ułatwienie odpalenia aplikacji jedną komendą można użyć gotowego skryptu poprzez kolejno:
 ```sh
-git clone https://gitlab-stud.elka.pw.edu.pl/dbartos2/pap2023l-z10.git
+git clone https://github.com/bartwild/RealEstate.git
 ./run.sh
 ```
 W ten sposób instalujemy wszystko co potrzebne do ruszenia aplikacji i ją włączamy.
